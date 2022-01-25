@@ -1,0 +1,8 @@
+.cardWrapper {
+  background-color: #2c2c2c;
+  border: 2px solid #2c2c2c;
+  margin: 2rem auto;
+  padding: 1.25rem;
+  width: 75%;
+  border-radius: 1rem;
+}
