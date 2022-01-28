@@ -13,9 +13,6 @@
 }
 .submit_button:hover {
   transform: translateY(-1rem) scale(1.2);
-  box-shadow: 0px 0px 15px 0px rgba(119, 25, 170, 0.75);
-}
-.submit_button:active{
   background-color: rgb(89, 223, 77);
   box-shadow: 0px 0px 15px 0px rgba(89, 223, 77, 0.8);
 }

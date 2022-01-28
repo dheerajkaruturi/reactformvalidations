@@ -1,20 +1,26 @@
 .form-group {
   margin: 0.5rem !important;
 }
-.form-group label{
+.form-group label {
   margin-bottom: 5px !important;
 }
-.form-control{
+.form-control {
   height: 3rem !important;
 }
-.form-control:focus{
- box-shadow: none;
+.form-control:focus {
+  box-shadow: none;
 }
-.submitButton-container{
+.submitButton-container {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
 }
-sup{
-  color: #e92626;
+sup {
+  color: #f02929;
   margin-left: 1px;
+}
+
+/* error classes */
+.input_error {
+  border: 2px solid #f02929;
+  background: #ee6464;
 }

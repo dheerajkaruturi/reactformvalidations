@@ -1,0 +1,31 @@
+.form_container {
+  width: 90%;
+  margin: 0 auto;
+}
+.userInput_wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 95%;
+  margin: 1.5rem auto;
+}
+.userInput {
+  outline: none;
+  height: 45px;
+  border-radius: 7px;
+  border: none;
+}
+.submitButton_container {
+  display: flex;
+  justify-content: center;
+}
+.error_text {
+  color: red;
+  font-size: 12px;
+}
+.form_submitionMessage {
+  display: flex;
+  justify-content: center;
+  color: limegreen;
+  font-weight: 800;
+}
